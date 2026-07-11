@@ -1,4 +1,4 @@
-# Jane_Street_Puzzle_July_2026
-Solution for ‘Pent-Up’ Frustration 3 / Knight Moves 7 JS puzzle July 2026
+# Jane_Street_Puzzles
 
-Backtracks for a solution using implied constraints
+July 2026 ‘Pent-Up’ Frustration 3 / Knight Moves 7 
+* Backtracks for a solution using implied constraints
